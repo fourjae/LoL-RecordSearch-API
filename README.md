@@ -1,4 +1,4 @@
-# lolsearch (서비스 X)
+# lolsearch RestAPI(서비스 X)
 
 ### 1. 프로젝트 요약
 
